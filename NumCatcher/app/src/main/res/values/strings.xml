@@ -1,0 +1,35 @@
+<resources>
+    <!--Default-->
+    <string name="app_name">NCatcher</string>
+    <!--Link-->
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.muradismayilov.numcatcher</string>
+    <string name="facebook">https://www.facebook.com/Martian-Developer-112019446941119/</string>
+    <string name="instagram">https://www.instagram.com/martiandeveloper/</string>
+    <string name="twitter">https://twitter.com/Murad58349993/</string>
+    <string name="whatsapp">tel:+994554987507</string>
+    <string name="website">http://martiandeveloper.com/</string>
+    <string name="email">app.martiandeveloper@gmail.com</string>
+    <string name="google_play">https://play.google.com/store/apps/dev?id=6834191715264686209</string>
+    <string name="privacy_policy_link">https://numbercatcher.blogspot.com/p/privacy-policy.html</string>
+    <!--Ad-->
+    <string name="numbercatcher_game_banner">ca-app-pub-3531666375863646/4081206191</string>
+    <!--In App-->
+    <string name="start">Start</string>
+    <string name="catch_the_number">Catch</string>
+    <string name="best_score">Best Score</string>
+    <string name="your_score">Your Score</string>
+    <string name="home">Home</string>
+    <string name="restart">Restart</string>
+    <string name="other_apps">Click here to see our other apps</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="copyright1">© Copyright</string>
+    <string name="copyright2">All rights reserved</string>
+    <string name="copyright3" translatable="false">Powered by MartianDeveloper</string>
+    <string name="about">About</string>
+    <string name="send_via">Send via</string>
+    <string name="rate_us">Rate us</string>
+    <string name="credit">Credit</string>
+    <string name="music">Music: www.bensound.com</string>
+    <string name="icon">Icon: www.flaticon.com &amp; www.iconfinder.com</string>
+</resources>
